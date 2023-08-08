@@ -9,92 +9,96 @@ initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
-  ".digitalhouse",
-  `Trabalhei como instrutor conteudista em frontend na
-  Digital House, o trabalho consistia em criar conteúdos para as
-  aulas de especialização frontend. Alguns temas dos conteúdos
-  realizados foram: React, Redux, TypeScript, Testes,
-  GraphQL, Next.js, MUI, React Hook Form e styled-components.`,
-  "Professor conteudista em Frontend",
-  "Digital House",
-  "Nov 2021 - Nov 2022 (1 ano)"
+  ".Sprinklr",
+  ` As a Product Engineer at Sprinklr, my role entails crafting and refining software products. 
+  Collaborating across teams, I employ coding expertise to innovate and elevate Sprinklr's customer experience and social media marketing solutions.`,
+   "Product Engineer @Sprinklr",
+  "Sprinklr",
+  "July 2023 - Sept 2023 (Active)"
 );
 
 hoverChangeExperience(
-  ".zuplae",
-  `Trabalhei como Social Media e Designer na Zuplae que é um escola
-  de programação, onde teve como foco as criações de conteúdos sobre
-  programação para a comunidade dev através das redes sociais.`,
-  "Social Media e UI Designer",
-  "Zuplae",
-  "Jan 2022 - Abril 2022 (4 meses)"
+  ".GSoC'23",
+  `I developed interactive web plugins for Rocketchat using advanced TypeScript, React, and React Native. 
+  Additionally, I mentored a project focused on enhancing mobile message composer media handling, involving tasks such as facilitating media transfer from other apps and adding clipboard copying functionality on mobile devices.`,
+  "Mentor@Rocket.chat",
+  "GSoC",
+  "May 2023 - Sept 2023 (4 months)"
 );
 
 hoverChangeExperience(
-  ".codigofontetv",
-  `Trabalhei como Social Media e Designer no Código Fonte TV, 
-  onde teve como foco as criações de conteúdos sobre programação 
-  para a comunidade dev através das redes sociais.`,
-  "Social Media e Designer",
-  "Código Fonte TV",
-  "Jun 2021 - Jan 2022 (8 meses)"
+  ".Sashido",
+  `I contributed to the Open API project by improving live queries for Swift and Objective-C languages. Collaborating with the team, I enhanced file management processes for smoother operations.
+   Notable clients like JetBlue, Lovesac, U.S. Cellular, and U.S. Department of Defense were served during this tenure.`,
+  "Api Engineer",
+  "Sashido",
+  "Sept 2022 - Nov 2022 (2 months)"
 );
 
 hoverChangeExperience(
-  ".contweb",
-  `Realizei o estágio na ContWeb, uma empresa de contabilidade. 
-  Onde pela primeira vez tive experiência com o React. Além do
-  desenvolvimento frontend criei os designs da nova plataforma da empresa.`,
-  "Developer frontend e UI Designer",
-  "ContWeb",
-  "Set 2021 - Nov 2021 (3 meses)"
+  ".GSoC'22",
+  `I developed interactive web plugins for Rocketchat using advanced TypeScript, React, and React Native. 
+  Additionally, I mentored a project focused on enhancing mobile message composer media handling, involving tasks such as facilitating media transfer from other apps and adding clipboard copying functionality on mobile devices.`,
+  "Mentee@joplin",
+  "GSoC",
+  "May 2022 - Sept 2022 (4 months)"
 );
+
+hoverChangeExperience(
+  ".Solana Labs",
+  `I teamed up with fellow student designers and engineers for pro-bono initiatives, conceptualizing brands, design systems, and Solana blockchain projects at Solana Labs. 
+   I also executed technical solutions aligned with Bitcoin business needs.`,
+  "Backend Developer",
+  "Solana Labs",
+  "Jan 2022 - Apr 2022 (4 months)"
+);
+
 
 hoverChangeDescription(
   ".html",
-  "HTML é uma linguagem de marcação, onde marcamos os elementos para definir quais informações a página vai exibir."
+  "HTML is a markup language, where we mark the elements to define what information the page will display."
 );
 hoverChangeDescription(
   ".css",
-  "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas."
+  "CSS is a style page language composed of “layers”, bred for the purpose of styling pages."
 );
 hoverChangeDescription(
   ".js",
-  "JavaScript é uma linguagem de programação que permite a você implementar elementos dinâmicos em páginas web."
+  "JavaScript is a programming language that allows you to implement dynamic elements in web pages."
 );
 hoverChangeDescription(
   ".sass",
-  "Sass é um pré-processador CSS que adiciona alguns recursos que não estão disponíveis de forma nativa."
+  "Sass is a CSS pre-processor that adds some resources that are not available natively."
 );
 hoverChangeDescription(
   ".react",
-  "React é uma biblioteca JavaScript com foco em criar interfaces de usuário de forma componetizada."
+  "React is a JavaScript library with a focus on creating user interfaces in a componentized way."
 );
 hoverChangeDescription(
   ".next",
-  "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
+  "Next.js is a web framework that enables features such as server-side rendering and generation of static React-based web sites."
 );
 hoverChangeDescription(
   ".styled",
-  "styled-components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  "styled-components is a library that uses the concept of CSS-in-JS, or so on, which allows us to write CSS code within Javascript."
 );
 hoverChangeDescription(
   ".tailwind",
-  "Tailwind CSS é um framework CSS que nos fornece classes utilitárias com o propósito de estilizar as páginas."
+  "Tailwind CSS is a CSS framework that provides us with utility classes for the purpose of styling pages."
 );
 hoverChangeDescription(
   ".typescript",
-  "TypeScript é um superset do JavaScript que incluir recursos que não estão presentes na linguagem de forma nativa, além de torná-la estática."
+  "TypeScript is a superset of JavaScript that includes resources that are not present in the language natively, besides making it static."
 );
 hoverChangeDescription(
   ".radix",
-  "Radix é uma biblioteca que fornece componentes acessíveis e sem estilos para a criação de aplicação em React."
+  "Radix is ​​a library that provides accessible components without styles for building React applications."
 );
 hoverChangeDescription(
   ".cypress",
-  "Cypress é um framework para automação de testes end-to-end, onde atualmente usa a linguagem JavaScript."
+  "Cypress is a framework for end-to-end test automation, where it currently uses the JavaScript language."
 );
 hoverChangeDescription(
   ".storybook",
-  "Storybook é uma ferramenta que tem como objetivo documentar e testar os componentes da aplicação."
+  "Storybook is a tool whose objective is to document and test the components of the application."
 );
